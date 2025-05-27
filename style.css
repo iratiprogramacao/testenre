@@ -1,0 +1,27 @@
+h2{
+    color: orange;
+}
+
+body{
+    background-color: #293737;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+}
+
+ul{
+    list-style-position: inside;
+}
+
+header{
+    border-bottom: 1px solid grey;
+}
+
+footer{
+    border-top: 1px solid grey;
+}
+
+img{
+    width: 650px;
+    height: 200px;
+}
